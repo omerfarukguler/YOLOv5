@@ -1,6 +1,6 @@
-# yolov5
+# YOLOv5
 
-**Githup'dan yolov5'i alıp etkinleştirildi**
+**Githup'dan YOLOv5'i alıp etkinleştirildi**
 
 `!git clone https://github.com/ultralytics/yolov5  # clone`
 
